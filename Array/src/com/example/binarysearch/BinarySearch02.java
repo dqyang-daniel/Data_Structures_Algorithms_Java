@@ -1,4 +1,4 @@
-package com.java.array;
+package com.example.binarysearch;
 
 public class BinarySearch02 {
     public static void main(String[] args) {
