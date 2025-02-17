@@ -2,7 +2,7 @@ package com.example.binarysearch;
 
 public class BinarySearch04 {
     public static void main(String[] args) {
-        int x = 100;
+        int x = 120;
         int root = sqrt(x);
         System.out.println(root);
     }
